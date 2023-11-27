@@ -27,7 +27,8 @@ namespace MulticastClient
                 client.Bind(ipep);
                 IPAddress ip = IPAddress.Parse("224.5.5.5");
                
-                client.SetSocketOption(SocketOptionLevel.IP,
+                client.SetSocketOption(
+                    SocketOptionLevel.IP,
                     SocketOptionName.AddMembership,
                     new MulticastOption(ip, IPAddress.Any));
                 

@@ -31,8 +31,7 @@ namespace MulticastServer
                 server.SetSocketOption(SocketOptionLevel.IP,SocketOptionName.MulticastTimeToLive,2);
 
                 // мультикаст адрес назначения
-                IPAddress dest = IPAddress.
-                Parse("224.5.5.5");
+                IPAddress dest = IPAddress.Parse("224.5.5.5");
                 server.SetSocketOption(SocketOptionLevel.IP, 
                     SocketOptionName.AddMembership,
                     new MulticastOption(dest));
