@@ -1,0 +1,8 @@
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\bin\Debug\MulticastServer.exe.config
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\bin\Debug\MulticastServer.exe
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\bin\Debug\MulticastServer.pdb
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\obj\Debug\MulticastServer.csproj.AssemblyReference.cache
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\obj\Debug\MulticastServer.csproj.CoreCompileInputs.cache
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\obj\Debug\MulticastServer.exe
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\obj\Debug\MulticastServer.pdb
+D:\CherepNick\Step\Сетевое программирование\multicast\MulticastServer\obj\Debug\MulticastServer.csproj.SuggestedBindingRedirects.cache
